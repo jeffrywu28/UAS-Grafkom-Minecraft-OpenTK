@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pertemuan 1", "Pertemuan 1.csproj", "{19AEBA38-E21E-477A-BD33-5F37E46C8DEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "..\Common\Common.csproj", "{6D7B3D43-E816-488E-91E0-7687ADABE69C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AEBA38-E21E-477A-BD33-5F37E46C8DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AEBA38-E21E-477A-BD33-5F37E46C8DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AEBA38-E21E-477A-BD33-5F37E46C8DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AEBA38-E21E-477A-BD33-5F37E46C8DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7B3D43-E816-488E-91E0-7687ADABE69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7B3D43-E816-488E-91E0-7687ADABE69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7B3D43-E816-488E-91E0-7687ADABE69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7B3D43-E816-488E-91E0-7687ADABE69C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644B2A34-264D-4BDC-BE35-3D8D20093A1E}
+	EndGlobalSection
+EndGlobal

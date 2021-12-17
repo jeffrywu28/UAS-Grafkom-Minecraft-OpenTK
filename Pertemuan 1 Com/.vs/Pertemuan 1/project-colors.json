@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19aeba38-e21e-477a-bd33-5f37e46c8deb": {
+      "ProjectGuid": "19aeba38-e21e-477a-bd33-5f37e46c8deb",
+      "DisplayName": "Pertemuan 1",
+      "ColorIndex": 0
+    },
+    "6d7b3d43-e816-488e-91e0-7687adabe69c": {
+      "ProjectGuid": "6d7b3d43-e816-488e-91e0-7687adabe69c",
+      "DisplayName": "Common",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,148 @@
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.exe
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.deps.json
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.runtimeconfig.json
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.runtimeconfig.dev.json
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\ref\Pertemuan 1.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.pdb
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\OpenTK.Compute.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\OpenTK.Core.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\OpenTK.Graphics.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\OpenTK.Input.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\OpenTK.Mathematics.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\OpenTK.OpenAL.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\OpenTK.Windowing.Common.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\OpenTK.Windowing.Desktop.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\runtimes\win-x64\native\glfw3.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\runtimes\win-x86\native\glfw3.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\LearnOpenTK.Common.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\bin\Debug\net5.0\LearnOpenTK.Common.pdb
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.csproj.AssemblyReference.cache
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.AssemblyInfoInputs.cache
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.AssemblyInfo.cs
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.csproj.CoreCompileInputs.cache
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.csproj.CopyComplete
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\ref\Pertemuan 1.dll
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.pdb
+D:\School\SMT 5\Grafkom\exampler\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.genruntimeconfig.cache
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.exe
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.deps.json
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.runtimeconfig.json
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.runtimeconfig.dev.json
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\ref\Pertemuan 1.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.pdb
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\OpenTK.Compute.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\OpenTK.Core.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\OpenTK.Graphics.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\OpenTK.Input.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\OpenTK.Mathematics.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\OpenTK.OpenAL.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\OpenTK.Windowing.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\OpenTK.Windowing.Desktop.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\runtimes\win-x64\native\glfw3.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\runtimes\win-x86\native\glfw3.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\LearnOpenTK.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\bin\Debug\net5.0\LearnOpenTK.Common.pdb
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.csproj.AssemblyReference.cache
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.AssemblyInfoInputs.cache
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.AssemblyInfo.cs
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.csproj.CoreCompileInputs.cache
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.csproj.CopyComplete
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\ref\Pertemuan 1.dll
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.pdb
+D:\School\SMT5\Grafkom\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.genruntimeconfig.cache
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.csproj.AssemblyReference.cache
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.AssemblyInfoInputs.cache
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.AssemblyInfo.cs
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.csproj.CoreCompileInputs.cache
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.dll
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\ref\Pertemuan 1.dll
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.pdb
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.exe
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.deps.json
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.runtimeconfig.json
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.runtimeconfig.dev.json
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\ref\Pertemuan 1.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\Pertemuan 1.pdb
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\OpenTK.Compute.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\OpenTK.Core.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\OpenTK.Graphics.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\OpenTK.Input.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\OpenTK.Mathematics.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\OpenTK.OpenAL.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\OpenTK.Windowing.Common.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\OpenTK.Windowing.Desktop.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\runtimes\win-x64\native\glfw3.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\runtimes\win-x86\native\glfw3.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\LearnOpenTK.Common.dll
+D:\grafkom\C#\Pertemuan 1\bin\Debug\net5.0\LearnOpenTK.Common.pdb
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.csproj.CopyComplete
+D:\grafkom\C#\Pertemuan 1\obj\Debug\net5.0\Pertemuan 1.genruntimeconfig.cache
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\Pertemuan 1.exe
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\Pertemuan 1.deps.json
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\Pertemuan 1.runtimeconfig.json
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\Pertemuan 1.runtimeconfig.dev.json
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\Pertemuan 1.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\ref\Pertemuan 1.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\Pertemuan 1.pdb
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\OpenTK.Compute.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\OpenTK.Core.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\OpenTK.Graphics.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\OpenTK.Input.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\OpenTK.Mathematics.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\OpenTK.OpenAL.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\OpenTK.Windowing.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\OpenTK.Windowing.Desktop.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\runtimes\win-x64\native\glfw3.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\runtimes\win-x86\native\glfw3.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\LearnOpenTK.Common.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\bin\Debug\net5.0\LearnOpenTK.Common.pdb
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\Pertemuan 1.csproj.AssemblyReference.cache
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\Pertemuan 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\Pertemuan 1.AssemblyInfoInputs.cache
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\Pertemuan 1.AssemblyInfo.cs
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\Pertemuan 1.csproj.CoreCompileInputs.cache
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\Pertemuan 1.csproj.CopyComplete
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\Pertemuan 1.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\ref\Pertemuan 1.dll
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\Pertemuan 1.pdb
+D:\School\SMT5\Grafkom\Pertemuan 1 Com\obj\Debug\net5.0\Pertemuan 1.genruntimeconfig.cache
